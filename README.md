@@ -1,5 +1,5 @@
 In this code, i create an app that lets users study flash cards based off of 5 question about computer through true or false questions, at the end of the app you are prompted with an exit button that closes
-the app and a review button that doesnt do anything yet
+the app and a review button that doesnt do anything yet, using arrays to show and store question on the 2nd creen to have the users choose true or false, my code can be improved by changing some of the layout of the screens and the code by using slightly better variable names.
 
 the link for the github - https://github.com/AshtonSpy/IMAD-ASSIGNMENT-2-FINAL.git
 
