@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMAD ASSIGNMENT Ashtn</string>
+    <string name="welcome_to_the_history_flashcard_quiz">Welcome to the History Flashcard Quiz!</string>
+    <string name="start">Start</string>
+    <string name="startbutton">startButton</string>
+    <string name="question_will_appear_here">Question will appear here</string>
+    <string name="next">Next</string>
+    <string name="btnStart" />
+</resources>
